@@ -1,0 +1,19 @@
+# Compiled Binaries & Objects
+*.exe
+*.out
+*.o
+*.obj
+*.app
+
+# Runtime Generated Files
+hospital_data.txt
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
